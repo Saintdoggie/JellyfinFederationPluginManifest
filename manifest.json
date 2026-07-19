@@ -14,6 +14,14 @@
                 "sourceUrl": "https://github.com/Saintdoggie/JellyfinFederationPluginManifest/releases/download/0.0.1/Jellyfin.Plugin.Federation.zip",
                 "checksum": "16560080ddcbb09fcc57a0bfbeb0449e",
                 "timestamp": "2026-07-19T00:00:00Z"
+            },
+            {
+                "version": "1.1.2",
+                "changelog": "Rebuild from latest upstream source (Angablade/JellyfinFederationPlugin).",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Saintdoggie/JellyfinFederationPluginManifest/releases/download/0.0.2/Jellyfin.Plugin.Federation.zip",
+                "checksum": "a257077a7f1b3d415bb00b0b3469d5c5",
+                "timestamp": "2026-07-19T00:00:00Z"
             }
         ]
     }
