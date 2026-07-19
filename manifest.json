@@ -10,8 +10,8 @@
                 "version": "0.0.1",
                 "changelog": "dude idk im not the dev",
                 "targetAbi": "10.11.0.0",
-                "sourceUrl": "",
-                "checksum": "",
+                "sourceUrl": "https://github.com/Saintdoggie/JellyfinFederationPluginManifest/releases/download/0.0.1/Jellyfin.Plugin.Federation.zip",
+                "checksum": "c75c1da19fa430b583d52fe6fa5a213bcc3161ec2ba5945a0da9af53a69527b1",
                 "timestamp": "2026-19-7T17:30:00"
             },
 	]
